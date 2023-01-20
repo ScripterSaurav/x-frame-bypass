@@ -20,8 +20,4 @@ X-Frame-Bypass is a [Web Component](https://www.webcomponents.org/introduction),
 
 ## Demo
 
-See the [Hacker News using X-Frame-Bypass](https://niutech.github.io/x-frame-bypass/). Supported are current versions of Chrome and Firefox browsers. Edge and Safari do not support Customized Built-in Elements yet.
-
-## License
-
-&copy; 2019 Jerzy Głowacki under Apache License 2.0.
+See the [www.Moviesflixoo.tk using X-Frame-Bypass](https://scriptersaurav.github.io/x-frame-bypass/). Supported are current versions of Chrome and Firefox browsers. Edge and Safari do not support Customized Built-in Elements yet.
